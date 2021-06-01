@@ -1,0 +1,130 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16301 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Common Files\Unity_HUB\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Kenneth/Desktop/Backup/Users/kenne/Unity_Projects/PolyGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50908
+Successfully changed project path to: C:/Users/Kenneth/Desktop/Backup/Users/kenne/Unity_Projects/PolyGame
+C:/Users/Kenneth/Desktop/Backup/Users/kenne/Unity_Projects/PolyGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 89.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Common Files/Unity_HUB/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Kenneth/Desktop/Backup/Users/kenne/Unity_Projects/PolyGame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   26.21.14.3086
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Common Files/Unity_HUB/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Common Files/Unity_HUB/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Common Files/Unity_HUB/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Common Files/Unity_HUB/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Common Files/Unity_HUB/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004049 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 84.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.692 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003195 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Kenneth\Desktop\Backup\Users\kenne\Unity_Projects\PolyGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Kenneth\Desktop\Backup\Users\kenne\Unity_Projects\PolyGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 84.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.998 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3957 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.5 MB.
+System memory in use after: 156.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4417.
+Total: 2.283400 ms (FindLiveObjects: 0.273000 ms CreateObjectMapping: 0.151800 ms MarkObjects: 1.790400 ms  DeleteObjects: 0.067400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Main_Menu.unity
+  artifactKey: Guid(30305b1c2aaae0b44869475a8793554f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main_Menu.unity using Guid(30305b1c2aaae0b44869475a8793554f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f48e8958195a5e1702ac51664ec164b') in 0.014754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.684753 seconds.
+  path: Assets/Scenes/Main_Menu
+  artifactKey: Guid(7e038cb05f51a984189ec2c23d481fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main_Menu using Guid(7e038cb05f51a984189ec2c23d481fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ef7c7f8a070257fc3a582f773707bf') in 0.005200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.227896 seconds.
+  path: Assets/Scenes/Main_Menu/LightingData.asset
+  artifactKey: Guid(9daa1bb23846b924da66ffd74ede4b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main_Menu/LightingData.asset using Guid(9daa1bb23846b924da66ffd74ede4b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2eb0c5689ee2a2e7a0841ab183d77ed') in 0.028588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Scenes/Main_Menu/ReflectionProbe-0.exr
+  artifactKey: Guid(5d5c4ca578b64984cb77338586214c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main_Menu/ReflectionProbe-0.exr using Guid(5d5c4ca578b64984cb77338586214c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cd755cb8d97856b0d043f7d0525141') in 0.073122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 224.229520 seconds.
+  path: Assets/Scenes/Lvl_2.unity
+  artifactKey: Guid(7cdcbdaa4578383459f6b20a323c8d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lvl_2.unity using Guid(7cdcbdaa4578383459f6b20a323c8d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b01d9ac02a29bd8c7e92cde66f4c0323') in 0.003782 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003227 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Kenneth\Desktop\Backup\Users\kenne\Unity_Projects\PolyGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Kenneth\Desktop\Backup\Users\kenne\Unity_Projects\PolyGame\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3893 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.7 MB.
+System memory in use after: 155.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4467.
+Total: 2.257700 ms (FindLiveObjects: 0.267900 ms CreateObjectMapping: 0.151100 ms MarkObjects: 1.792900 ms  DeleteObjects: 0.044800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
